@@ -2540,7 +2540,7 @@ spawn(function()
 end)
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Maris Hub", HidePremium = false, IntroText = "DarkHub Library", SaveConfig = true, ConfigFolder = "Maris Hub"})
+local Window = OrionLib:MakeWindow({Name = "Maris Hub", HidePremium = false, IntroText = "Maris Hub", SaveConfig = true, ConfigFolder = "Maris Hub"})
 
 OrionLib:MakeNotification({
 	Name = "Maris Hub",
