@@ -2571,24 +2571,6 @@ local W = Window:MakeTab({
     PremiumOnly = false
 })
 
-local M = Window:MakeTab({
-    Name = "General",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
-local ST = Window:MakeTab({
-    Name = "Setting",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
-local IQ = Window:MakeTab({
-    Name = "Item & Quest",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
 local S = Window:MakeTab({
     Name = "Stats",
     Icon = "rbxassetid://4483345998",
@@ -2601,20 +2583,8 @@ local E = Window:MakeTab({
     PremiumOnly = false
 })
 
-local RA = Window:MakeTab({
-    Name = "Raid",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
 local LC = Window:MakeTab({
     Name = "Local Players",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
-local Wld = Window:MakeTab({
-    Name = "World Teleport",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
@@ -2633,18 +2603,6 @@ local D = Window:MakeTab({
 
 local R = Window:MakeTab({
     Name = "Race V4",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
-local SH = Window:MakeTab({
-    Name = "Shop",
-    Icon = "rbxassetid://4483345998",
-    PremiumOnly = false
-})
-
-local C = Window:MakeTab({
-    Name = "Misc",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
